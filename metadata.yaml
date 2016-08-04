@@ -1,0 +1,35 @@
+_repo: The-Four-Million_2776
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henry, O.
+    alias: Porter, William Sidney
+    birthdate: 1862
+    deathdate: 1910
+    gutenberg_agent_id: '634'
+    url: http://www.gutenberg.org/2009/agents/634
+    wikipedia: http://en.wikipedia.org/wiki/O._Henry
+description: ''
+gutenberg_issued: '2001-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'New York (N.Y.) -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: Tobin's palm -- The gift of the magi -- A cosmopolite in a café --
+  Between rounds -- The skylight room -- A service of love -- The coming-out of Maggie
+  -- Man about town -- The cop and the anthem -- An adjustment of nature -- Memoirs
+  of a yellow dog -- The love-philtre of Ikey Schoenstein -- Mammon and the archer
+  -- Springtime à la carte -- The green door -- From the cabby's seat -- An unfinished
+  story -- The caliph, Cupid and the clock -- Sisters of the golden circle -- The
+  romance of a busy broker -- After twenty years -- Lost on dress parade -- By courier
+  -- The furnished room -- The brief début of Tildy.
+title: The Four Million
+url: http://www.gutenberg.org/ebooks/2776
